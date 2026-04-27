@@ -1,0 +1,1 @@
+var e=`/webChat1.png`;export{e as t};
